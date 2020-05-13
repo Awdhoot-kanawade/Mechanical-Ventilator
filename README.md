@@ -2,7 +2,7 @@
 This repo contains cad files and codes for pressure control loop based 3D printable, quick deploy mechanical ventilator 
 
 
-**Caution :This design is work in progress..
+***Caution :This design is work in progress..***
 
 
 **STL** files will be available soon..along with **circuit diagram** and **Code**
@@ -13,5 +13,5 @@ using **nema 17** and combination of **reduction gear** precice movement and air
 
 For faster processing **Teensy 4.0** will be used instid of **Arduino uno**
 
-*Assembly video can be seen here -> 
+*Assembly video can be seen here -> *
 
