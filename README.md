@@ -13,5 +13,5 @@ using **nema 17** and combination of **reduction gear** precice movement and air
 
 For faster processing **Teensy 4.0** will be used instid of **Arduino uno**
 
-*Assembly video can be seen here -> *
+***Assembly video can be seen here -> ***
 
